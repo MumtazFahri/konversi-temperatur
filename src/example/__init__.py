@@ -1,0 +1,1 @@
+from contoh_module import laman
